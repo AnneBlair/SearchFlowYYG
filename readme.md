@@ -192,7 +192,7 @@ List 的默认格式会为 cell 添加额外的默认 padding，所以左右的�
 ![设计架构图.PDF (图 5)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%97%E6%AE%B5%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E.png?raw=true)
 
 ### 六、效果演示链接
-[]()
+[视频地址](https://github.com/AnneBlair/SearchFlowYYG/blob/master/%E6%BC%94%E7%A4%BA.MP4)
 
 -------
 
