@@ -78,7 +78,8 @@ List 的默认格式会为 cell 添加额外的默认 padding，所以左右的�
 
 **以及持久化存储** (persistent store) (NSPersistentStore)：
 
-架构图：参考架构图.PDF (图 1)
+架构图：![参考架构图.PDF (图 1)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/CoreData%20%E6%9E%B6%E6%9E%84%E5%9B%BE.png?raw=true)
+
 
 ### 2. 相关主要事件函数构建
 
@@ -118,9 +119,9 @@ List 的默认格式会为 cell 添加额外的默认 padding，所以左右的�
 
 结合 **Combine** 的特性进行处理数据流. 
 
-**Combine 架构图参考:** 参考架构图.PDF (图 2)
+**Combine 架构图参考:** ![参考架构图.PDF (图 2)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/Combin%20%E6%A1%86%E6%9E%B6%E5%9B%BE.png?raw=true)
 
-**本 Demo 设计架构图:** 参考架构图.PDF (图 3)
+**本 Demo 设计架构图:** ![参考架构图.PDF (图 3)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/SwiftUI%20%E6%A1%86%E6%9E%B6%E5%9B%BE.png?raw=true)
 
 -------
 
@@ -179,4 +180,6 @@ List 的默认格式会为 cell 添加额外的默认 padding，所以左右的�
 
 通过 Action 间接改变状态，在短时间和状态很简单 app 中，似乎有点“得不偿失”。但是在长期和复杂的情况下，它的优势将非常明显。
 
+
+![设计架构图.PDF (图 3)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/SwiftUI%20%E6%A1%86%E6%9E%B6%E5%9B%BE.png?raw=true)
 
