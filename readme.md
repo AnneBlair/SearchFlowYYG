@@ -183,3 +183,9 @@ List 的默认格式会为 cell 添加额外的默认 padding，所以左右的�
 
 ![设计架构图.PDF (图 3)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/SwiftUI%20%E6%A1%86%E6%9E%B6%E5%9B%BE.png?raw=true)
 
+### 四、单元测试结果
+
+![设计架构图.PDF (图 3)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/Test%20%E7%BB%93%E6%9E%9C.png?raw=true)
+
+创作不易，分享请注明出处（点赞），么么哒😘
+
