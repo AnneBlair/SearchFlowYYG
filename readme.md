@@ -1,7 +1,7 @@
 #    A Basic Search Flow 设计思路
 * [x] 面试者：尹玉广
 * [x] 联系电话：13146492969
-* [x] 开发环境：Xcode Version 12.0 beta 2 (12A6163b)
+* [x] 编译环境：Xcode Version 12.0 beta 2 (12A6163b)
 * [x] 语言：Swift, SwiftUI
 * [x] 完成日期：2020年7月26日
 
@@ -187,5 +187,14 @@ List 的默认格式会为 cell 添加额外的默认 padding，所以左右的�
 
 ![设计架构图.PDF (图 3)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/Test%20%E7%BB%93%E6%9E%9C.png?raw=true)
 
-创作不易，分享请注明出处（点赞），么么哒😘
+### 五、数据库字段设计说明
+
+![设计架构图.PDF (图 5)](https://github.com/AnneBlair/SearchFlowYYG/blob/master/YYG-Image/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%97%E6%AE%B5%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E.png?raw=true)
+
+### 六、效果演示链接
+[]()
+
+-------
+
+创作不易，分享请注明出处，么么哒😘
 
