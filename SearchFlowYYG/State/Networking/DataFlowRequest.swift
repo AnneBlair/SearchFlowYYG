@@ -18,7 +18,7 @@ struct DataFlowRequest {
         Future { promise in
             /// 伪代码
             /// 访问数据库
-            let flows = FlowCoreData().getFlowForBrand(brand: content)
+            let flows = FlowCoreData().getFlowForBrand(brand: self.content)
             let models = flows.map { AttributeModel(id: UUID().description, type: $0.type, category: $0.category, brand: $0.brand, inStock: $0.inStock, price: $0.price) }
             promise(.success(models))
         }

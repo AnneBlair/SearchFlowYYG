@@ -57,7 +57,7 @@ struct ContentView: View {
                             }
                         }.onAppear {
                             /// 这是分页加载更多 Action
-                            store.dispatch(.loadMoreResultData(valid: flowSection))
+                            self.store.dispatch(.loadMoreResultData(valid: flowSection))
                         }
                     }
                 }
