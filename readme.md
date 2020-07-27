@@ -1,9 +1,11 @@
 #    A Basic Search Flow 设计思路
 * [x] 面试者：尹玉广
 * [x] 联系电话：13146492969
-* [x] 编译环境：Xcode Version 12.0 beta 2 (12A6163b)
+* [x] 编译环境：Xcode Version 11.5 
+* [x] 系统版本：iOS 13 + 
 * [x] 语言：Swift, SwiftUI
 * [x] 完成日期：2020年7月26日
+* [x] 修改日期：2020年7月27日
 
 -------
 
